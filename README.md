@@ -1,41 +1,8 @@
 # Ollama Chat Assistant
 
-A Streamlit-based web application that allows you to chat with documents (PDF, DOCX, # Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.so
-
-# Virtual environments
-env/
-.venv/
-venv/
-ENV/
-env.bak/
-*.env
-
-# Streamlit cache
-.streamlit/
-
-# VS Code
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ollama models (if any are downloaded here)
-*.bin
-
-# Misc
-*.swpTXT) using local LLMs via Ollama.
+A Streamlit-based web application that allows you to chat with documents (PDF, DOCX, )
+This uses local models
+_
 
 ## Features
 
@@ -103,4 +70,4 @@ MIT License
 
 ---
 
-*This project is for educational and research purposes.*
+*This project is for educational and research purposes, you are allowed to build upon it*
